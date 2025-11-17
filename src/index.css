@@ -119,16 +119,11 @@ body {
   }
 
   .game-board {
-    position: fixed;
-    top: 30%;
+    top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
   }
 
   .game-info {
-    position: fixed;
-    top: 80%;
-    left: 35%;
-    transform: translate(-50%, -50%);
+    opacity: 0;
   }
 }
