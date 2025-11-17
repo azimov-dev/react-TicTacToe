@@ -5,9 +5,9 @@ import ReactDOM from "react-dom";
 function Modal({ wonPlayer }) {
   let player = "";
   if (wonPlayer) {
-    player = "Player 2";
+    player = "Player O";
   } else {
-    player = "Player 1";
+    player = "Player X";
   }
 
   return ReactDOM.createPortal(
