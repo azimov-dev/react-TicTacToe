@@ -3,6 +3,9 @@
 A simple, clean, and interactive Tic Tac Toe game built using React.
 This project demonstrates essential React concepts like state management, props, lifting state up, conditional rendering, modals, and component reusability.
 
+if you want to test it:
+https://tic-tac-toe-by-azimovdev.vercel.app/
+
 🚀 Features
 
 🎯 Classic 3×3 Tic Tac Toe gameplay
