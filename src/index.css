@@ -125,5 +125,6 @@ body {
 
   .game-info {
     opacity: 0;
+    display: none;
   }
 }
